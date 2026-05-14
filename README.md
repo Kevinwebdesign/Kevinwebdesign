@@ -24,5 +24,22 @@
  	<li>確實及網站正式上線​​</li>
  	<li>餘款支付及售後維護服務</li>
 </ul>
+<h1>SEO公司 | SEO Hong Kong</h1>
+<blockquote>千帆網站提供本地SEO公司服務，配置專業網站規劃及SEO Hong Kong網絡推廣技術。客戶可預先設立行業HK SEO關鍵字，再配合我們專業的本地SEO Hong Kong團隊建議及技術支援，確保貴公司網站能應用我們SEO公司支援連結服務，讓行業關鍵字可在各大搜尋引擎位居高於首，有興趣朋友歡迎與我們 SEO HK服務團隊聯絡。</blockquote>
+<h2>千帆 SEO公司推薦 服務</h2>
+<blockquote>千帆網站SEO公司現提供2025年 SEO服務優化計劃，小規模網站收費由HK$1500起/月，提供一站式網站市場定位分析、日誌文章宣傳及維護服務，讓網站全面獲得最强支援。</blockquote>
+<h3>全網站優化SEO服務計劃</h3>
+<ul>
+ 	<li>SEO內碼架構</li>
+ 	<li>關鍵字設置</li>
+ 	<li>長尾配合詞</li>
+ 	<li>每月維護管理</li>
+ 	<li>優質支援連結 / Backlinks</li>
+ 	<li>核心關鍵字分佈</li>
+ 	<li>地圖認證</li>
+ 	<li>社交媒體創立</li>
+ 	<li>網站位置監察</li>
+ 	<li>Google Analytics 報告</li>
+</ul>
 <hr />
 <h3>🟡聯繫方式﹕(852)3481 2592 / 🟢WhatsApp： (852)6150 2871  / 🔴電郵: info@kevinwebdesign.com</h3>
