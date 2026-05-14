@@ -24,4 +24,5 @@
  	<li>確實及網站正式上線​​</li>
  	<li>餘款支付及售後維護服務</li>
 </ul>
-🟡聯繫方式﹕(852)3481 2592 / 🟢WhatsApp： (852)6150 2871  / 🔴電郵: info@kevinwebdesign.com
+<hr />
+<h3>🟡聯繫方式﹕(852)3481 2592 / 🟢WhatsApp： (852)6150 2871  / 🔴電郵: info@kevinwebdesign.com</h3>
