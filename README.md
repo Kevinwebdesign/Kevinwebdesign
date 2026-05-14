@@ -5,7 +5,7 @@
 <p style="text-align: center;">👉<a href="https://www.kevinwebdesign.com/" target="_blank" rel="noopener">官方網站</a>📦<a href="https://www.kevinwebdesign.com/email-web-hosting">網頁寄存公司電郵</a>✅<a href="https://www.kevinwebdesign.com/seo-hong-kong">SEO公司</a>📌<a href="https://www.kevinwebdesign.com/work">作品案例</a>🏭<a href="https://www.kevinwebdesign.com/ecommerce-online-store">獨立站搭建</a></p>
 <h1>一站式網站設計</h1>
 <blockquote>電商主題套版搭建，均是嚴選輕巧的高階WP主題，無須編碼技術，都能輕鬆掌握商品及分類新增、購物車管理、線上付款系統等，客戶更可以因應實際要求，進行二次開發及調改。</blockquote>
-<img class="alignnone size-full wp-image-12635" src="https://www.kcorp-gba.com/wp-content/uploads/2026/05/22b573be3b59004ba14c28e5b5b8c64b.jpg" alt="" width="1200" height="1680" />
+<img class="alignnone wp-image-12635 size-large" src="https://www.kcorp-gba.com/wp-content/uploads/2026/05/22b573be3b59004ba14c28e5b5b8c64b-731x1024.jpg" alt="" width="731" height="1024" />
 <h1 class="font_2 wixui-rich-text__text"><span class="wixui-rich-text__text">網頁設計流程</span></h1>
 客戶初步報價反饋意見後，<strong>進一步核實網站架構、語言數量、設計風格、寄存容量、*RWD功能、*社交媒體整合、*SEO優化服務、客製化功能或使用第三方供應商已開發功能或*主題套版製作等。</strong>其後進一步深入講解網站設計效果、功能開發預算及使用者體驗流程等區域。
 <ul>
