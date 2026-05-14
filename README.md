@@ -6,16 +6,14 @@
 <p style="text-align: center;"><img class="alignnone wp-image-12635 size-large" style="font-size: 16px;" src="https://www.kcorp-gba.com/wp-content/uploads/2026/05/22b573be3b59004ba14c28e5b5b8c64b-731x1024.jpg" alt="" width="731" height="1024" /></p>
 <h1>一站式網站設計</h1>
 <blockquote>電商主題套版搭建，均是嚴選輕巧的高階WP主題，無須編碼技術，都能輕鬆掌握商品及分類新增、購物車管理、線上付款系統等，客戶更可以因應實際要求，進行二次開發及調改。</blockquote>
-<img class="alignnone size-full wp-image-12634" src="https://www.kcorp-gba.com/wp-content/uploads/2026/05/eca3e42c64eb0b378801c9fca7701bbe.png" alt="" width="1006" height="848" />
-<h1 class="font_2 wixui-rich-text__text"><span class="wixui-rich-text__text">網頁設計流程</span></h1>
+<h1><img class="alignnone size-full wp-image-12634" src="https://www.kcorp-gba.com/wp-content/uploads/2026/05/eca3e42c64eb0b378801c9fca7701bbe.png" alt="" width="1006" height="848" /></h1>
+<h1>網頁設計流程</h1>
 客戶初步報價反饋意見後，<strong>進一步核實網站架構、語言數量、設計風格、寄存容量、*RWD功能、*社交媒體整合、*SEO優化服務、客製化功能或使用第三方供應商已開發功能或*主題套版製作等。</strong>其後進一步深入講解網站設計效果、功能開發預算及使用者體驗流程等區域。
 <ul>
  	<li>​設計師充份了解客戶對網站的實況要求後，便可以確實正式網頁設計報價，讓客戶更具體了解各詳細項目及功能範圍。</li>
  	<li>當客戶確定報價後，便會開始進行資料收集及傳輸流程介紹，最後我們便會按原先交付日期完工，是由客戶聯絡我們至網站上線共9個流程階段。</li>
 </ul>
 <h2>​9個流程步驟 :</h2>
-<ul>
- 	<li style="list-style-type: none;">
 <ul>
  	<li>了解客戶對網站設計及製作功能效果</li>
  	<li>寄存及宣傳等配套要求</li>
@@ -24,10 +22,6 @@
  	<li>檢視客戶傳發資料</li>
  	<li>第一期按金繳付</li>
  	<li>檢測網站功能及設計效果</li>
-</ul>
-</li>
-</ul>
-<ul>
  	<li>確實及網站正式上線​​</li>
  	<li>餘款支付及售後維護服務</li>
 </ul>
