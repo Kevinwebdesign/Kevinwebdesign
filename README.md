@@ -24,6 +24,7 @@
  	<li>確實及網站正式上線​​</li>
  	<li>餘款支付及售後維護服務</li>
 </ul>
+<h3>🟡聯繫方式﹕(852)3481 2592 / 🟢WhatsApp： (852)6150 2871  / 🔴電郵: info@kevinwebdesign.com</h3>
 <h1>SEO公司 | SEO Hong Kong</h1>
 <blockquote>千帆網站提供本地SEO公司服務，配置專業網站規劃及SEO Hong Kong網絡推廣技術。客戶可預先設立行業HK SEO關鍵字，再配合我們專業的本地SEO Hong Kong團隊建議及技術支援，確保貴公司網站能應用我們SEO公司支援連結服務，讓行業關鍵字可在各大搜尋引擎位居高於首，有興趣朋友歡迎與我們 SEO HK服務團隊聯絡。</blockquote>
 <h2>千帆 SEO公司推薦 服務</h2>
